@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24798968235",
+    "project_id": "wallpaper-house-c4036",
+    "storage_bucket": "wallpaper-house-c4036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24798968235:android:4ca1de89f2cb7e8e51faee",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24798968235-77ia7j4kene91ea7ir6ci58j3ir9fmmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-niTGFLXSKHVbTxOm8GnZCYy-V7i2t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24798968235-77ia7j4kene91ea7ir6ci58j3ir9fmmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
